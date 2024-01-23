@@ -1,0 +1,16 @@
+### command ###
+
+#pip install -r requirements.txt        # install packages from requirements.txt file
+#pip freeze > requirements.txt          # get package versions
+
+
+### packages ###
+
+#cuda-python
+matplotlib
+numpy
+pylzma
+ipykernel
+jupyter
+torch
+torchvision
